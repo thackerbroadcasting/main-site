@@ -2,36 +2,24 @@
 layout: page
 title: Privacy Policy
 ---
-<div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
-</div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+## Legal - Overview
 
-**PERSONAL INFORMATION WE COLLECT**
+Thacker Broadcasting, LLC, is an LLC business licensed within the State of Utah. Thacker Broadcasting takes full responsibility for the information that it publishes and the businesses/services it provides, up to and including the normal operation of its equipment/services. Anything considered to be outside of “normal operation” is solely at the discretion of Thacker Broadcasting.
 
-{% if site.analytics.google %}
+Normal operation of equipment and services is defined as such, and is not limited to:
 
-Automatically Collected (Google Analytics):
+- Operation during requested hours. This includes but is not limited to hours of operation for the business requesting services and outside of update-able hours.
 
-When you visit the Site, we automatically receive information about your device from your browser, such as your IP address. As you browse the Site, we also collect information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
+- Content requested is received within a timely manner from the date of purchase and/or received from a live stream without more than one minute delay from the point of transmission to the point of reception.
 
-We collect Device Information using cookies. “Cookies” are data files that are placed on your device. For more information about cookies and how to disable them, visit http://www.allaboutcookies.org.
+- Content is received without latency.
 
-We do this using Google Analytics: <https://www.google.com/intl/en/policies/privacy/>.
+  - Latency is defined as the skipping or buffering of streamed media during operation and under normal Internet use on a connection of at least 10 Mbps. Occasional pausing (less than 10 seconds) may be observed as local hardware performs system checks and optimizations during hours of lesser traffic.
 
-You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
+  - Thacker Broadcasting will never force you to upgrade any Internet packages for use with our products. We may, however, give advice should the necessity be shown.
 
-{% else %}
+Please note that any downtime caused by an unplanned system update or unexpected system failure is not at the fault of Thacker Broadcasting, and thus is not reimbursable (except in cases of negligence). Planned system updates and/or upgrades to local equipment will be worked out with the Client prior. In the case of provided streams and/or remote equipment, announcements will be sent to all Clients utilizing contact methods provided, and the updates will be completed during a time of lesser service.
 
-We do not collect any data about you or use any cookies.
-
-{% endif %}
-
-**CHANGES**
-
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
-
-**CONTACT US**
-
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Business Entity ID – UTAH: 12260008-0160
+Company Type: LLC – Domestic

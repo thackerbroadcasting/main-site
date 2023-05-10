@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Broadcasting Solutions for you Business
+    text: We're glad you're here!
     button: Tell Me More
     buttonlink: "#services"
 
@@ -21,15 +21,21 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Scheduled. 24/7."
+        desc: "You tell us when you want music. We’ll provide it on your schedule. And make any adjustments you want at any time with an easy-to-use web portal."
+        icon: fas fa-calendar-days #find more at https://fontawesome.com/icons
+      - title: "Customizable"
+        desc: "Your music instance is yours. And because of this architecture, we're able to make each one unique. Maybe you don't want that new pop song. No problem, we'll get rid of it. With an almost limitless combination of programming, music choice, and anything else you throw in there, your instance will forever be unique to your business!"
+        icon: fas fa-sliders
+      - title: "99.8% Uptime"
+        desc: "Modern hardware and software combined with experience provide an experience like never before to keep your business running and customers happy."
+        icon: fas fa-bolt
+      - title: "Your Music. Fast."
+        desc: "It's fast. Want to change the current playlist? Cue it up, the current song will finish, and you're in business. Flip your classy restaurant to a nightclub (or whatever your fancy is) with a couple clicks. Whatever the situation, our system will respond almost instantly."
+        icon: fas fa-rocket
+      - title: "Always Updated"
+        desc: "We keep up with the music industry so you don’t have to. New songs are added every week and you’ll benefit from it every time. Plus, we keep our equipment and software up-to-date so your experience is always flawless."
+        icon: fas fa-check
 
   portfolio:
     title: "Portfolio"

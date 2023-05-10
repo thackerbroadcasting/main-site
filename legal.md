@@ -23,6 +23,6 @@ Please note that any downtime caused by an unplanned system update or unexpected
 
 ---
 
-Business Entity ID – UTAH: 12260008-0160
+**Business Entity ID – UTAH:** 12260008-0160
 
-Company Type: LLC – Domestic
+**Company Type:** LLC – Domestic

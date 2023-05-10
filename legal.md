@@ -21,6 +21,8 @@ Normal operation of equipment and services is defined as such, and is not limite
 
 Please note that any downtime caused by an unplanned system update or unexpected system failure is not at the fault of Thacker Broadcasting, and thus is not reimbursable (except in cases of negligence). Planned system updates and/or upgrades to local equipment will be worked out with the Client prior. In the case of provided streams and/or remote equipment, announcements will be sent to all Clients utilizing contact methods provided, and the updates will be completed during a time of lesser service.
 
+---
+
 Business Entity ID – UTAH: 12260008-0160
 
 Company Type: LLC – Domestic

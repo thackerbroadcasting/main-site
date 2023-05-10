@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Broadcasting Solutions for you Business
+    title: Broadcasting Solutions for your Business
     text: We're glad you're here!
     button: Tell Me More
     buttonlink: "#features"

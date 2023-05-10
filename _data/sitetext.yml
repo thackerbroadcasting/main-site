@@ -14,16 +14,16 @@ en: &DEFAULT_EN
     title: Broadcasting Solutions for you Business
     text: We're glad you're here!
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#features"
 
   services:
-    title: "Services"
+    title: "Features"
     text: "Lorem ipsum"
-    section: services
+    section: features
     list:
       - title: "Scheduled. 24/7."
         desc: "You tell us when you want music. We’ll provide it on your schedule. And make any adjustments you want at any time with an easy-to-use web portal."
-        icon: fas fa-calendar-days #find more at https://fontawesome.com/icons
+        icon: fas fa-calendar-day #find more at https://fontawesome.com/icons
       - title: "Customizable"
         desc: "Your music instance is yours. And because of this architecture, we're able to make each one unique. Maybe you don't want that new pop song. No problem, we'll get rid of it. With an almost limitless combination of programming, music choice, and anything else you throw in there, your instance will forever be unique to your business!"
         icon: fas fa-sliders

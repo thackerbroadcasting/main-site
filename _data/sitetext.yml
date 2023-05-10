@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Features"
-    text: "Lorem ipsum"
+    text: "What we're known for"
     section: features
     list:
       - title: "Scheduled. 24/7."

@@ -153,16 +153,16 @@ en: &DEFAULT_EN
   footer:
     legal: "Legal"
     social:
-      - url: https://twitter.com
+      - url: https://twitter.com/thackbroadcast
         icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://facebook.com/thackerbroadcasting
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://instagram.com/thackerbroadcasting
         icon: "fab fa-instagram"
+      - url: https://linkedin.com/company/thacker-broadcasting
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/thackerbroadcasting
+        icon: "fab fa-github"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

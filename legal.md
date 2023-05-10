@@ -4,6 +4,7 @@ title: Privacy Policy
 ---
 <div class="col-lg-12 text-center">
   <h2 class="section-heading text-uppercase">Legal - Overview</h2>
+</div>
 
 Thacker Broadcasting, LLC, is an LLC business licensed within the State of Utah. Thacker Broadcasting takes full responsibility for the information that it publishes and the businesses/services it provides, up to and including the normal operation of its equipment/services. Anything considered to be outside of “normal operation” is solely at the discretion of Thacker Broadcasting.
 

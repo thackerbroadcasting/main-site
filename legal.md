@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Legal - Overview
 ---
 
 <div class="col-lg-12 text-center">

@@ -2,7 +2,7 @@
 layout: page
 title: Legal - Overview
 ---
-
+<br>
 <div class="col-lg-12 text-center">
   <h2 class="section-heading text-uppercase">Legal - Overview</h2>
 </div>

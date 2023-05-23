@@ -42,7 +42,7 @@ en: &DEFAULT_EN
     text: "The projects we have or are currently working on"
     section: portfolio
     closebutton: "Close Project"
-  
+
   timeline:
     title: "Timeline"
     text: "How we got here"

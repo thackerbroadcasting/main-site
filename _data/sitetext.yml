@@ -127,7 +127,6 @@ en: &DEFAULT_EN
     email: "Email*"
     email-validation: "Please enter your email address."
     phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"

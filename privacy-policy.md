@@ -21,13 +21,13 @@ This privacy notice for Thacker Broadcasting, LLC (“**Company**,” “**we**,
 
 _This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. You can also click [here](#table-of-contents) to go directly to our table of contents._
 
-**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Thacker Broadcasting, LLC and the Services, the choices you make, and the products and features you use. Click here to learn more.
+**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Thacker Broadcasting, LLC and the Services, the choices you make, and the products and features you use. Click [here](#what-information-do-we-collect) to learn more.
 
 **Do we process any sensitive personal information?** We do not process sensitive personal information.
 
 **Do you receive any information from third parties?** We do not receive any information from third parties.
 
-**How do you process my information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Click here to learn more.
+**How do you process my information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Click [here](#how-do-we-process-your-information) to learn more.
 
 **In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Click here to learn more.
 
@@ -40,84 +40,85 @@ _This summary provides key points from our privacy notice, but you can find out 
 Want to learn more about what Thacker Broadcasting, LLC does with any information we collect? Click [here]() to review the notice in full.
 
 ## TABLE OF CONTENTS
+1. [WHAT INFORMATION DO WE COLLECT?](#what-information-do-we-collect)
+2. [HOW DO WE PROCESS YOUR INFORMATION?](#how-do-we-process-your-information)
+3. [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?]()
+4. [WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?]()
+5. [HOW LONG DO WE KEEP YOUR INFORMATION?]()
+6. [HOW DO WE KEEP YOUR INFORMATION SAFE?]()
+7. [DO WE COLLECT INFORMATION FROM MINORS?]()
+8. [WHAT ARE YOUR PRIVACY RIGHTS?]()
+9. [CONTROLS FOR DO-NOT-TRACK FEATURES]()
+10. [DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?]()
+11. [DO WE MAKE UPDATES TO THIS NOTICE?]()
+12. [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?]()
+13. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?]()
 
-    WHAT INFORMATION DO WE COLLECT?
-    HOW DO WE PROCESS YOUR INFORMATION?
-    WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
-    WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
-    HOW LONG DO WE KEEP YOUR INFORMATION?
-    HOW DO WE KEEP YOUR INFORMATION SAFE?
-    DO WE COLLECT INFORMATION FROM MINORS?
-    WHAT ARE YOUR PRIVACY RIGHTS?
-    CONTROLS FOR DO-NOT-TRACK FEATURES
-    DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
-    DO WE MAKE UPDATES TO THIS NOTICE?
-    HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-    HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+## 1. WHAT INFORMATION DO WE COLLECT?
 
-1. WHAT INFORMATION DO WE COLLECT?
+**Personal information you disclose to us**
 
-Personal information you disclose to us
-
-In Short: We collect personal information that you provide to us.
+_**In Short:** We collect personal information that you provide to us._
 
 We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
 
-Personal Information Provided by You. The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
+**Personal Information Provided by You.** The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
+- names
+- phone numbers
+- email addresses
+- job titles
 
-    names
-    phone numbers
-    email addresses
-    job titles
-
-Sensitive Information. We do not process sensitive information.
+**Sensitive Information.** We do not process sensitive information.
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
-2. HOW DO WE PROCESS YOUR INFORMATION?
 
-In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
+## 2. HOW DO WE PROCESS YOUR INFORMATION?
+
+_**In Short:** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent._
 
 We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
+- To respond to user inquiries/offer support to users. We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.
+- To fulfill and manage your orders. We may process your information to fulfill and manage your orders, payments, returns, and exchanges made through the Services.
+- To enable user-to-user communications. We may process your information if you choose to use any of our offerings that allow for communication with another user.
+- To comply with our legal obligations. We may process your information to comply with our legal obligations, respond to legal requests, and exercise, establish, or defend our legal rights.
 
-    To respond to user inquiries/offer support to users. We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.
-    To fulfill and manage your orders. We may process your information to fulfill and manage your orders, payments, returns, and exchanges made through the Services.
-    To enable user-to-user communications. We may process your information if you choose to use any of our offerings that allow for communication with another user.
-    To comply with our legal obligations. We may process your information to comply with our legal obligations, respond to legal requests, and exercise, establish, or defend our legal rights.
+## 3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
-3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+_**In Short:** We may share information in specific situations described in this section and/or with the following third parties.We may need to share your personal information in the following situations:
+- Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+- Other Users. When you share personal information (for example, by posting comments, contributions, or other content to the Services) or otherwise interact with public areas of the Services, such personal information may be viewed by all users and may be publicly made available outside the Services in perpetuity. Similarly, other users will be able to view descriptions of your activity, communicate with you within our Services, and view your profile.
 
-In Short: We may share information in specific situations described in this section and/or with the following third parties.We may need to share your personal information in the following situations:
+## 4. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
 
-    Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
-    Other Users. When you share personal information (for example, by posting comments, contributions, or other content to the Services) or otherwise interact with public areas of the Services, such personal information may be viewed by all users and may be publicly made available outside the Services in perpetuity. Similarly, other users will be able to view descriptions of your activity, communicate with you within our Services, and view your profile.
-
-4. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
-
-In Short: We are not responsible for the safety of any information that you share with third parties that we may link to or who advertise on our Services, but are not affiliated with, our Services.
+_**In Short:** We are not responsible for the safety of any information that you share with third parties that we may link to or who advertise on our Services, but are not affiliated with, our Services._
 
 The Services may link to third-party websites, online services, or mobile applications and/or contain advertisements from third parties that are not affiliated with us and which may link to other websites, services, or applications. Accordingly, we do not make any guarantee regarding any such third parties, and we will not be liable for any loss or damage caused by the use of such third-party websites, services, or applications. The inclusion of a link towards a third-party website, service, or application does not imply an endorsement by us. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services, or applications that may be linked to or from the Services. You should review the policies of such third parties and contact them directly to respond to your questions.
-5. HOW LONG DO WE KEEP YOUR INFORMATION?
 
-In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
+## 5. HOW LONG DO WE KEEP YOUR INFORMATION?
+
+_**In Short:** We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law._
 
 We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than 1 year.
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
-6. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
-In Short: We aim to protect your personal information through a system of organizational and technical security measures.
+## 6. HOW DO WE KEEP YOUR INFORMATION SAFE?
+
+_**In Short:** We aim to protect your personal information through a system of organizational and technical security measures._
 
 We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cyber-criminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
-7. DO WE COLLECT INFORMATION FROM MINORS?
 
-In Short: We do not knowingly collect data from or market to children under 18 years of age.
+## 7. DO WE COLLECT INFORMATION FROM MINORS?
+
+_**In Short:** We do not knowingly collect data from or market to children under 18 years of age._
 
 We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at contact@thackerbroadcasting.com.
-8. WHAT ARE YOUR PRIVACY RIGHTS?
 
-In Short: You may review, change, or terminate your account at any time.
+## 8. WHAT ARE YOUR PRIVACY RIGHTS?
 
-If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: https://ec.europa.eu/justice/data-protection/ bodies/authorities/index_en.htm.
+_**In Short:** You may review, change, or terminate your account at any time._
+
+If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
 
 If you are located in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.
 

@@ -134,7 +134,6 @@ en: &DEFAULT_EN
 
   footer:
     legal: "Legal"
-    legal: "Privacy Policy"
     social:
       - url: https://twitter.com/thackbroadcast
         icon: "fab fa-twitter"

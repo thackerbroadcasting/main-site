@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: fas fa-calendar-day #find more at https://fontawesome.com/icons
       - title: "Customizable"
         desc: "Your music instance is yours. And because of this architecture, we're able to make each one unique. Maybe you don't want that new pop song. No problem, we'll get rid of it. With an almost limitless combination of programming, music choice, and anything else you throw in there, your instance will forever be unique to your business!"
-        icon: fas fa-sliders-simple
+        icon: fas fa-sliders
       - title: "99.8% Uptime"
         desc: "Modern hardware and software combined with experience provide an experience like never before to keep your business running and customers happy."
         icon: fas fa-bolt

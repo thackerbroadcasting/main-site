@@ -15,7 +15,7 @@ Last Updated: 26 February 2023
 
 This privacy notice for Thacker Broadcasting, LLC (“**Company**,” “**we**,” “**us**,” or “**our**“), describes how and why we might collect, store, use, and/or share (“process”) your information when you use our services (“**Services**”).
 
-**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at contact@thackerbroadcasting.com.
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at [contact@thackerbroadcasting.com](mailto:contact@thackerbroadcasting.com).
 
 ## SUMMARY OF KEY POINTS
 

@@ -166,7 +166,7 @@ We have collected the following categories of personal information in the past t
 | Protected classification characteristics under California or federal law | Gender and date of birth | NO |
 | Commercial information | Transaction information, purchase history, financial details, and payment information | NO |
 | Biometric information | Fingerprints and voice-prints | NO |
-| Internet or other similar network activity | Browsing history, search history,online behavior, interest data, and interactions with our and other websites,applications, systems, and advertisements | NO |
+| Internet or other similar network activity | Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements | NO |
 | Geolocation data	Device location | NO |
 | Audio, electronic, visual, thermal, olfactory, or similar information | Images and audio, video or call recordings created in connection with our business activities | NO |
 | Professional or employment-related information | Business contact details in order to provide you our services at a business level or job title, work history, and professional qualifications if you apply for a job with us | NO |

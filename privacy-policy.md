@@ -29,13 +29,13 @@ _This summary provides key points from our privacy notice, but you can find out 
 
 **How do you process my information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Click [here](#2-how-do-we-process-your-information) to learn more.
 
-**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Click [here](#3-) to learn more.
+**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Click [here](#3-when-and-with-whom-do-we-share-your-personal-information) to learn more.
 
-**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cyber-criminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Click [here](#6-) to learn more.
+**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cyber-criminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Click [here](#6-how-do-we-keep-your-information-safe) to learn more.
 
-**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Click [here](#8-) to learn more.
+**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Click [here](#8-what-are-your-privacy-rights) to learn more.
 
-**How do I exercise my rights?** The easiest way to exercise your rights is by filling out our data subject request form available here: https://thackerbroadcasting.com/legal/data-subject-access-request-form or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+**How do I exercise my rights?** The easiest way to exercise your rights is by filling out our data subject request form available here: https://forms.office.com/r/26M3twGffc or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what Thacker Broadcasting, LLC does with any information we collect? Click [here](#table-of-contents) to review the notice in full.
 

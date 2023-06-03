@@ -82,7 +82,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Our story"
-    body: "Thacker Broadcasting aims to replace in-store music systems with one that is more dynamic and allows for customer engagement while also being reliable, scalable, and easy-to-use. In a world where it is increasingly difficult to broadcast what **you** want, we aim at providing platforms to creators so they can make themselves heard. You could all us a "jack of all trades", which would be accurate. By providing these solutions to both businesses and individuals customers, we can make our platform as flexible as you are.
+    body: "Thacker Broadcasting aims to replace in-store music systems with one that is more dynamic and allows for customer engagement while also being reliable, scalable, and easy-to-use. In a world where it is increasingly difficult to broadcast what **you** want, we aim at providing platforms to creators so they can make themselves heard. You could all us a 'jack of all trades', which would be accurate. By providing these solutions to both businesses and individuals customers, we can make our platform as flexible as you are."
     section: about
 
 #  clients:
